@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Tomás  
 
-Soy **Licenciado en Administración** y **Full Stack Web Developer** con especialización en **desarrollo frontend**. Me apasiona crear soluciones tecnológicas que combinen funcionalidad, diseño y eficiencia. 🚀  
+Soy **Full Stack Web Developer** con especialización en **desarrollo frontend** y **Licenciado en Administración**. Me apasiona crear soluciones tecnológicas que combinen funcionalidad, diseño y eficiencia. 🚀  
 
 ---
 
