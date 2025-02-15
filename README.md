@@ -15,6 +15,7 @@ Soy **Full Stack Web Developer** con especialización en **desarrollo frontend**
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)  
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlapro&show_icons=true&theme=radical) 
 
 ## 🌟 Acerca de mí  
 - 🎓 **Licenciado en Administración** con una sólida comprensión de los objetivos de negocio.  
