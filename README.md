@@ -27,7 +27,7 @@ Soy **Full Stack Web Developer** con especialización en **desarrollo frontend**
 ---
 
 ## 📫 ¡Hablemos!  
-- 💼 [LinkedIn](https://www.linkedin.com/tlapro)  
+- 💼 [LinkedIn]([https://www.linkedin.com/tlapro](https://www.linkedin.com/in/tlaprovitta/))  
 - 📧 tlaprovitta@gmail.com  
 
 
