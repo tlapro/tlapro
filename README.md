@@ -27,7 +27,8 @@ Soy **Full Stack Web Developer** con especialización en **desarrollo frontend**
 ---
 
 ## 📊 Mis Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlapro&show_icons=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tlapro&show_icons=true&theme=radical&cache_seconds=1800&token=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)
+
 
 ## 🌟 Acerca de mí  
 - 🎓 **Licenciado en Administración** con una sólida comprensión de los objetivos de negocio.  
